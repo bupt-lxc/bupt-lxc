@@ -68,6 +68,6 @@
 </table>
 
 <p align="center">
-  <sub>Python · Java · PyTorch · LangGraph · FastAPI · vLLM</sub><br>
+  <sub>Python · Java · C++ · PyTorch · LangGraph · FastAPI · vLLM</sub><br>
   <a href="mailto:lxc983@bupt.edu.cn">lxc983@bupt.edu.cn</a>
 </p>
