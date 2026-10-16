@@ -22,13 +22,13 @@
     <td width="50%" valign="top">
       <h3>🌱 Internship Experience</h3>
       <p>
-        <img src="assets/china-telecom.png" width="26" height="26" alt="China Telecom logo" align="absmiddle">&nbsp; <strong>China Telecom · Beijing Branch</strong><br>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="assets/china-telecom-white.svg"><img src="assets/china-telecom-blue.svg" width="26" height="26" alt="China Telecom logo" align="absmiddle"></picture>&nbsp; <strong>China Telecom · Beijing Branch</strong><br>
         LLM Algorithm Intern<br>
         <code>Jul 2026 – Sep 2026</code><br>
         <sub>Agent data pipelines, AI compute recommendation, and inference benchmarking.</sub>
       </p>
       <p>
-        <img src="assets/audi.png" width="26" height="26" alt="Audi logo" align="absmiddle">&nbsp; <strong>Audi China</strong><br>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="assets/audi-rings-white.svg"><img src="assets/audi-rings-black.svg" width="58" height="20" alt="Audi logo" align="absmiddle"></picture>&nbsp; <strong>Audi China</strong><br>
         AI &amp; Software Development Intern · C/EV-L<br>
         <code>Apr 2026 – Jul 2026</code><br>
         <sub>Multi-agent vehicle diagnostics, hybrid RAG, and procurement workflow automation.</sub>
@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>💻 Open Source Projects</h3>
-      <p><img src="assets/china-telecom.png" width="26" height="26" alt="China Telecom logo" align="absmiddle">&nbsp; <strong>China Telecom internship</strong></p>
+      <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/china-telecom-white.svg"><img src="assets/china-telecom-blue.svg" width="26" height="26" alt="China Telecom logo" align="absmiddle"></picture>&nbsp; <strong>China Telecom internship</strong></p>
       <ul>
         <li>
           <a href="https://gitee.com/aishperf-caict/aishperf_openness"><strong>AISHPerf</strong></a><br>
@@ -53,7 +53,7 @@
           <sub>Agent-driven data collection and AI compute recommendation, with CLI and API access.</sub>
         </li>
       </ul>
-      <p><img src="assets/audi.png" width="26" height="26" alt="Audi logo" align="absmiddle">&nbsp; <strong>Audi internship</strong></p>
+      <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/audi-rings-white.svg"><img src="assets/audi-rings-black.svg" width="58" height="20" alt="Audi logo" align="absmiddle"></picture>&nbsp; <strong>Audi internship</strong></p>
       <ul>
         <li>
           <a href="https://github.com/bupt-lxc/AIVehicleDiagnose"><strong>AIVehicleDiagnose</strong></a><br>
