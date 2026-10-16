@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  👋 Currently focused on <strong>AI agents, RAG, and LLM safety</strong>.
+  👋 Currently focused on <strong>AI agents, LLM safety, and edge AI</strong>.
 </p>
 
 <p align="center">
